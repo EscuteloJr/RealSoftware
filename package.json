@@ -1,0 +1,34 @@
+{
+  "name": "realsoftware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscuteloJr/RealSoftware.git"
+  },
+  "keywords": [
+    "real",
+    "soft",
+    "software",
+    "real",
+    "software"
+  ],
+  "author": "Mateus Escutelo, Gilberto Agostinho, Armando Kapuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EscuteloJr/RealSoftware/issues"
+  },
+  "homepage": "https://github.com/EscuteloJr/RealSoftware#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  },
+  "devDependencies": {}
+}
